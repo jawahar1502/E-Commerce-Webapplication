@@ -70,10 +70,19 @@ Designed to feel like a **next-generation shopping application** with immersive 
 
 <img width="1902" height="911" alt="Screenshot 2026-04-22 124251" src="https://github.com/user-attachments/assets/34376f8b-fce6-46c6-8f9c-54a03cf9556d" />
 
+<img width="1908" height="908" alt="Screenshot 2026-04-22 124358" src="https://github.com/user-attachments/assets/6ceaafcb-b6e8-4200-ae2d-64c917fd8027" />
+
+<img width="1902" height="911" alt="Screenshot 2026-04-22 124419" src="https://github.com/user-attachments/assets/7497202e-8f1e-488f-afd1-07b285eb704e" />
+
+<img width="1904" height="908" alt="Screenshot 2026-04-22 124440" src="https://github.com/user-attachments/assets/af8a47d1-ab8a-4f8f-adc0-a2d20b97b206" />
+
 ---
 
 ### 📊 Admin Dashboard
 
+<img width="1905" height="909" alt="Screenshot 2026-04-22 124229" src="https://github.com/user-attachments/assets/3dd81c33-4ca8-47d6-a880-a480fb631073" />
+
+<img width="1904" height="904" alt="Screenshot 2026-04-22 124209" src="https://github.com/user-attachments/assets/ea59f7af-d82c-4f5e-a8d6-f8cfb7601795" />
 
 ---
 
